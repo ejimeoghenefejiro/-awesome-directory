@@ -137,11 +137,25 @@ A set of practices that combines software development (Dev) and IT operations (O
         * [Jenkins](https://www.jenkins.io/) - An open source automation server.
     * **GitHub Actions**
         * [GitHub Actions](https://github.com/features/actions) - Automate your workflow from idea to production.
+    * **GitLab CI/CD**
+        * [GitLab CI/CD](https://gitlab.com/gitlab-com) - A powerful CI/CD tool that integrates tightly with GitLab repositories for seamless automation.
 * **Containerization**
     * **Docker**
         * [Docker](https://www.docker.com/) - A platform for developing, shipping, and running applications in containers.
     * **Kubernetes**
         * [Kubernetes](https://kubernetes.io/) - An open-source system for automating deployment, scaling, and management of containerized applications.
+    * **Helm**
+        * [Helm](https://helm.sh/) - Package manager for Kubernetes which uses 'charts' as its package format, which is based on YAML.
+* **Infrastructure as Code (IaC)**
+    * **Terraform**
+        * [Terraform](https://developer.hashicorp.com/terraform) - A tool for provisioning and managing cloud infrastructure using declarative configuration.
+    * **Ansible**
+        * [Ansible](https://www.redhat.com/en/ansible-collaborative) - A powerful automation tool that simplifies configuration management, application deployment, and task automation.
+* **Monitoring and Logging**
+    * **Prometheus**
+        * [Prometheus](https://prometheus.io/) - A monitoring toolkit designed to observe metrics and performance in cloud-native environments.
+    * **ELK Stack (Elasticsearch, Logstash, Kibana)**
+        * [ELK Stack](https://www.elastic.co/elastic-stack) - A set of tools for collecting, processing, and visualizing logs and metrics.
 
 ---
 
