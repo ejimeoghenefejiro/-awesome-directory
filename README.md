@@ -126,6 +126,17 @@ The delivery of computing services—including servers, storage, databases, netw
     * **GCP**
         * [Google Cloud Platform](https://cloud.google.com/) - Google's suite of cloud computing services.
 
+* **Other Providers**
+    * **Alibaba Cloud**
+        * [Alibaba Cloud](https://www.alibabacloud.com/) - Alibaba's cloud services.
+    * **Digital Ocean**
+        * [DigitalOcean](https://www.digitalocean.com/) - Digital Ocean's cloud services.
+    * **Oracle Cloud**
+        * [Oracle Cloud](https://www.oracle.com/) - Oracle's cloud services.
+    * **IBM Cloud**
+        * [IBM Cloud](https://www.ibm.com/cloud) - IBM's cloud services.
+    * **Linode**
+        * [Linode](https://www.linode.com/) - Cloud services by Akamai Cloud.
 ---
 
 #### DevOps
@@ -151,12 +162,20 @@ A set of practices that combines software development (Dev) and IT operations (O
         * [Terraform](https://developer.hashicorp.com/terraform) - A tool for provisioning and managing cloud infrastructure using declarative configuration.
     * **Ansible**
         * [Ansible](https://www.redhat.com/en/ansible-collaborative) - A powerful automation tool that simplifies configuration management, application deployment, and task automation.
+    * **Pulumi**
+        * [Pulumi](https://www.pulumi.com/) - Create infrastructure as code in your favorite programming language such as Python, Go, .NET, NodeJs.
+    * **OpenTofu**
+         * [OpenTofu](https://opentofu.org/) - An open source alternative to Terraform.
 * **Monitoring and Logging**
     * **Prometheus**
         * [Prometheus](https://prometheus.io/) - A monitoring toolkit designed to observe metrics and performance in cloud-native environments.
     * **ELK Stack (Elasticsearch, Logstash, Kibana)**
         * [ELK Stack](https://www.elastic.co/elastic-stack) - A set of tools for collecting, processing, and visualizing logs and metrics.
-
+    * **Grafana**
+        * [Grafana](https://grafana.com/) - A tool for observability.
+* **Security**
+    * **SonarQube**
+        * [SonarQube](https://www.sonarsource.com/) - A static analytics tool for code quality and security.
 ---
 
 ### License
