@@ -52,7 +52,7 @@ Web development is the work involved in developing a website for the Internet or
 
 * **Frontend Development**
     * **HTML & CSS**
-        * [MDN Web Docs - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - Comprehensive guide to HTML.
+        * [MDN Web Docs - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - Comprehensive guide on HTML.
         * [MDN Web Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - Extensive documentation for CSS.
         * [Flexbox Froggy](https://flexboxfroggy.com/) - An interactive game to learn CSS Flexbox.
         * [CSS-Tricks](https://css-tricks.com/) - A website focused on web design and development, especially CSS.
