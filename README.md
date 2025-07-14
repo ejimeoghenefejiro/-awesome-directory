@@ -32,7 +32,7 @@ The rapidly evolving world of technology can be overwhelming. This repository is
 Your contributions are highly welcome! This project thrives on community input. If you know of an awesome resource that isn't listed, or if you can improve an existing section, please consider contributing.
 
 1.  **Fork** this repository.
-2.  **Create a new branch** for your feature or fix (e.g., `feat/add-react-resources`, `fix/update-broken-link`).
+2.  **Create a new branch** for your feature or fix (e.g., `feat/mybranch`, `fix/update-broken-link`).
 3.  **Add your resources:**
     * If adding to an existing category, navigate to its directory (e.g., `Web Development/`) and edit the `README.md`.
     * If creating a new category, create a new directory for it (e.g., `NewCategory/`) and add a `README.md` file inside.
